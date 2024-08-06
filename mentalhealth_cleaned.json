@@ -1,0 +1,303 @@
+{
+    "intents": [
+        
+        {
+            "tag": "definition",
+            "patterns": [
+                "what does it mean to have a mental illness",
+                "what is mental health illness",
+                "describe mental health illness",
+                "what is a mental illness",
+                "define mental health illness",
+                "explain mental health illness",
+                "what constitutes a mental illness",
+                "what are mental health disorders",
+                "how do you define mental illness",
+                "what does mental illness mean"
+            ],
+            "responses": [
+                "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They can affect how a person thinks, feels, and behaves.",
+                "Mental illness refers to a wide range of mental health conditions that impact mood, thinking, and behavior. Examples include depression, anxiety disorders, schizophrenia, eating disorders, and addictive behaviors.",
+                "Mental health illnesses are disorders that affect your mood, thinking, and behavior. They can lead to distress and impair your ability to function in everyday life.",
+                "Having a mental illness means experiencing significant changes in thinking, emotion, or behavior that disrupt daily life and relationships. It's important to seek help if you notice these changes.",
+                "Mental illnesses are medical conditions that often result in a diminished capacity for coping with the ordinary demands of life. Treatment and support can help manage these conditions."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "affects_whom",
+            "patterns": [
+                "who does mental illness affect",
+                "who is affected by mental illness",
+                "who can be affected by mental health issues",
+                "who suffers from mental illness",
+                "who experiences mental health problems",
+                "who is impacted by mental illness",
+                "who can develop mental health disorders",
+                "who is vulnerable to mental illness",
+                "who gets mental health issues",
+                "who can have mental illness"
+            ],
+            "responses": [
+                "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental health issues can affect anyone, regardless of age, gender, race, or socioeconomic status.",
+                "Mental illness can impact people of all ages, backgrounds, and walks of life. It's a widespread issue that doesn't discriminate.",
+                "Anyone can be affected by mental illness at any point in their life. Factors such as genetics, environment, and lifestyle can contribute to the development of mental health conditions.",
+                "Mental health issues can affect children, adolescents, adults, and the elderly. It's important to recognize that mental illness can touch anyone, and seeking help is crucial.",
+                "Mental illness doesn't discriminate. It affects individuals from all demographics, including different ages, genders, races, and economic statuses."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "what_causes",
+            "patterns": [
+                "what causes mental illness",
+                "what leads to mental illness",
+                "how does one get mentally ill",
+                "what are the causes of mental health disorders",
+                "why do people develop mental illness",
+                "what triggers mental health issues",
+                "what factors contribute to mental illness",
+                "how do mental health conditions develop",
+                "what are the reasons for mental illness",
+                "what causes someone to have mental health problems"
+            ],
+            "responses": [
+                "Mental illness can result from a complex interplay of genetic, biological, environmental, and psychological factors. These may include family history of mental health disorders, brain chemistry imbalances, trauma, chronic stress, and significant life changes.",
+                "There is no single cause of mental illness. Instead, it is often caused by a combination of factors, including genetics, brain chemistry, life experiences, and environmental influences.",
+                "Genetic predisposition, chemical imbalances in the brain, traumatic experiences, and ongoing stress are some of the factors that can contribute to the development of mental health disorders.",
+                "Mental health conditions can arise from a variety of sources, including biological factors, psychological trauma, stressful life events, and inherited traits. Understanding these factors can help in managing and treating mental health issues.",
+                "The development of mental illness is typically influenced by a combination of genetic, biological, environmental, and psychological factors. It's important to address these contributing factors to effectively manage and treat mental health conditions."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "recover",
+            "patterns": [
+                "can people with mental illness recover",
+                "is it possible to recover from mental illness",
+                "is recovery from mental illness achievable",
+                "can someone heal from mental illness",
+                "do people get better from mental illness",
+                "can mental illness be cured",
+                "is it possible to heal from mental illness",
+                "can someone recover from a mental health condition",
+                "is recovery from mental health issues possible",
+                "can mental health be restored"
+            ],
+            "responses": [
+                "When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well. Although some might experience a return of symptoms, even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life.",
+                "Recovery from mental illness is definitely possible. Early diagnosis and consistent treatment play crucial roles. It's important for individuals to actively participate in their treatment plan and seek support when needed.",
+                "Many individuals with mental health conditions recover and lead fulfilling lives. The key is to find the right treatment plan and stay engaged in the recovery process.",
+                "With the right treatment and support, many people with mental illness can achieve significant improvements and maintain a high quality of life. Recovery is a journey that involves managing symptoms and building resilience.",
+                "It's possible to recover from mental illness with appropriate treatment, support, and a proactive approach to managing one's health. While some may experience relapses, ongoing care and support can lead to a stable and fulfilling life."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "steps",
+            "patterns": [
+                "i know someone who appears to have such symptoms",
+                "what are the steps to be followed in case of symptoms",
+                "what should I do if I know someone with these symptoms",
+                "how to help someone showing symptoms of mental illness",
+                "what actions should be taken if someone has these symptoms",
+                "how can I assist a person who has mental health symptoms",
+                "what are the steps to take if someone shows signs of mental illness",
+                "how to support someone with symptoms of a mental health condition",
+                "what to do if someone is exhibiting symptoms of mental illness",
+                "how can I help a friend or family member with mental health symptoms"
+            ],
+            "responses": [
+                "Although this website cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help.",
+                "It's important to approach the person with care and empathy. Start by having an open and honest conversation about your concerns and encourage them to seek professional help.",
+                "Listen to them without judgment and offer your support. Suggest that they talk to a mental health professional who can provide a proper diagnosis and treatment plan.",
+                "Help them find resources and information about mental health treatment options. Offer to assist them in making appointments or finding a mental health professional.",
+                "Remind them that seeking help is a sign of strength and that there is no shame in addressing mental health issues. Your support and encouragement can make a significant difference in their willingness to seek help."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "find_help",
+            "patterns": [
+                "how to find mental health professional for myself",
+                "how to find mental health professional",
+                "where can I find a mental health professional",
+                "how do I locate a mental health expert",
+                "how can I get help for mental health",
+                "how to seek out a mental health professional",
+                "where can I search for mental health providers",
+                "how to find a therapist or counselor",
+                "how do I get professional help for mental health",
+                "what steps to take to find a mental health professional"
+            ],
+            "responses": [
+                "Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.",
+                "You can find mental health professionals by asking for recommendations from friends, family, or your primary care physician. Online directories and mental health organizations can also help.",
+                "Consider what type of mental health professional you need based on your issues. Research local providers, read reviews, and check their credentials to find a good match.",
+                "Many online resources and directories can help you locate mental health professionals in your area. It's important to verify their qualifications and areas of expertise.",
+                "Reach out to local mental health organizations, clinics, or hospitals. They often have lists of qualified professionals and can provide guidance on choosing the right one."
+            ],
+            "context": [
+                ""
+            ]
+        }, 
+        {
+            "tag": "treatment_options",
+            "patterns": [
+                "what treatment options are available",
+                "how can one recover",
+                "what are the different treatment methods for mental illness",
+                "how can mental health be treated",
+                "what therapies are available for mental health issues",
+                "what are the options for mental health treatment",
+                "how can someone recover from mental illness",
+                "what kinds of treatment are there for mental health",
+                "how is mental health treated",
+                "what are some effective treatment options for mental health"
+            ],
+            "responses": [
+                "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people, so it's important to find what works best for you or your child.",
+                "Treatment options for mental health include psychotherapy, medication, lifestyle changes, and support groups. A combination of these methods is often the most effective.",
+                "There are various therapies such as cognitive-behavioral therapy (CBT), dialectical behavior therapy (DBT), and mindfulness-based therapies. It's crucial to work with a professional to determine the best approach.",
+                "Recovery from mental illness can involve medication, therapy, and support from family and friends. Each person's journey is unique, so finding the right combination of treatments is key.",
+                "Mental health treatment options include talk therapy, medication, holistic approaches like yoga and meditation, and community support. Consulting with a mental health professional can help you explore these options."
+            ],
+            "context": [
+                ""
+            ]
+        },        
+        {
+            "tag": "treatment_tips",
+            "patterns": [
+                "how to become involved in treatment",
+                "what should i keep in mind if i begin treatment",
+                "how do I start with treatment",
+                "what are some tips for starting treatment",
+                "what should I know before starting treatment",
+                "how can I be proactive in my treatment",
+                "what should I consider when beginning treatment",
+                "how to prepare for treatment",
+                "what should I expect when starting treatment",
+                "any advice for starting treatment"
+            ],
+            "responses": [
+                "Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It's important to be patient and give the process time.",
+                "Being actively involved in your treatment can make a big difference. Ask questions, set goals, and communicate openly with your therapist.",
+                "Remember to keep an open mind and be willing to try different approaches to see what works best for you.",
+                "It's helpful to have a support system in place. Talk to friends or family members about your treatment and how they can support you.",
+                "Don't hesitate to speak up if something isn't working for you. Your treatment should be tailored to your needs, and your feedback is crucial."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "professional_types",
+            "patterns": [
+                "what is the difference between mental health professionals",
+                "what are the different types of mental health professionals present",
+                "who can help with mental health issues",
+                "what kinds of mental health experts are there",
+                "tell me about different mental health providers",
+                "who can I see for mental health concerns",
+                "what are the types of mental health specialists",
+                "what types of mental health professionals can I consult",
+                "what are the various mental health professionals",
+                "who can assist with mental health problems",
+                "what mental health professionals exist",
+                "can you list different mental health experts"
+            ],
+            "responses": [
+                "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each has various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research.",
+                "Mental health professionals come in different types including psychiatrists, psychologists, counselors, therapists, and social workers. Each one has different qualifications and areas of specialization.",
+                "Different mental health professionals include psychiatrists who can prescribe medication, psychologists who provide therapy, licensed counselors, and clinical social workers who offer a range of support and services.",
+                "You can consult various mental health professionals such as psychiatrists for medical treatment, psychologists for therapy, and licensed professional counselors for guidance and support.",
+                "The types of mental health professionals include clinical psychologists, psychiatric nurses, marriage and family therapists, and licensed clinical social workers, each providing unique services and support."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "right_professional",
+            "patterns": [
+                "how can i find a mental health professional right for myself",
+                "how to find the right mental health professional",
+                "how do i choose the right mental health professional",
+                "how can i select the best mental health professional",
+                "what should I consider when choosing a mental health professional",
+                "how do I know which mental health professional is right for me",
+                "how to identify the best mental health professional for my needs",
+                "tips for finding the right mental health professional",
+                "how to find a suitable mental health professional",
+                "how can I find a good mental health professional"
+            ],
+            "responses": [
+                "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research.",
+                "It's important to consider factors like the professional's qualifications, experience, and specialization. Don't hesitate to ask questions and see if you feel comfortable with them.",
+                "You may need to meet with a few different professionals before finding the right fit. Look for someone who is experienced in dealing with your specific issues and with whom you feel comfortable.",
+                "Ask for recommendations from friends, family, or your primary care doctor. You can also check online reviews and directories to find qualified professionals in your area.",
+                "Consider the professional's approach to treatment and whether it aligns with your own preferences and needs. It's okay to switch if you feel the fit isn't right."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hi",
+                "how are you",
+                "is anyone there",
+                "hello",
+                "good day",
+                "whats up",
+                "how are ya",
+                "heyy",
+                "whatsup",
+                "  "
+            ],
+            "responses": [
+                "hello",
+                "good to see you again",
+                "hi there how can i help"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "cya",
+                "see you",
+                "bye bye",
+                "see you later",
+                "goodbye",
+                "i am leaving",
+                "bye",
+                "have a good day",
+                "talk to you later",
+                "ttyl",
+                "i got to go",
+                "gtg"
+            ],
+            "responses": [
+                "sad to see you go ",
+                "talk to you later",
+                "goodbye",
+                "come back soon"
+            ],
+            "context_set": ""
+        }
+
+    ]
+}
